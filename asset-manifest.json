@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//tomhakdev.github.io/personal_website_react/static/css/main.1afdb0a6.css",
-    "main.js": "/https//tomhakdev.github.io/personal_website_react/static/js/main.0eb5f029.js",
-    "static/js/453.aa6fa2fc.chunk.js": "/https//tomhakdev.github.io/personal_website_react/static/js/453.aa6fa2fc.chunk.js",
-    "static/media/updated-website-space-background.png": "/https//tomhakdev.github.io/personal_website_react/static/media/updated-website-space-background.0ba7b790a31ec3ded113.png",
-    "index.html": "/https//tomhakdev.github.io/personal_website_react/index.html",
-    "main.1afdb0a6.css.map": "/https//tomhakdev.github.io/personal_website_react/static/css/main.1afdb0a6.css.map",
-    "main.0eb5f029.js.map": "/https//tomhakdev.github.io/personal_website_react/static/js/main.0eb5f029.js.map",
-    "453.aa6fa2fc.chunk.js.map": "/https//tomhakdev.github.io/personal_website_react/static/js/453.aa6fa2fc.chunk.js.map"
+    "main.css": "/personal_website_react/static/css/main.39070abf.css",
+    "main.js": "/personal_website_react/static/js/main.c15e5e31.js",
+    "static/js/453.aa6fa2fc.chunk.js": "/personal_website_react/static/js/453.aa6fa2fc.chunk.js",
+    "static/media/updated-website-space-background.png": "/personal_website_react/static/media/updated-website-space-background.0ba7b790a31ec3ded113.png",
+    "index.html": "/personal_website_react/index.html",
+    "main.39070abf.css.map": "/personal_website_react/static/css/main.39070abf.css.map",
+    "main.c15e5e31.js.map": "/personal_website_react/static/js/main.c15e5e31.js.map",
+    "453.aa6fa2fc.chunk.js.map": "/personal_website_react/static/js/453.aa6fa2fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1afdb0a6.css",
-    "static/js/main.0eb5f029.js"
+    "static/css/main.39070abf.css",
+    "static/js/main.c15e5e31.js"
   ]
 }
