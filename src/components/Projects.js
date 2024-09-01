@@ -17,7 +17,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Website built for the Laboratory on Ethnic Conflict Research at the Centre for the Study of Democracy and Diversity</p>
+            <p>Developing a website for the Laboratory on Ethnic Conflict Research at the Centre for the Study of Democracy and Diversity. The site features an interactive map interface highlighting countries involved in territorial conflicts since WWII.</p>
             <p>Skills: JavaScript, HTML, CSS</p>
           </div>
         </div>
@@ -31,7 +31,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Community tool sharing app</p>
+            <p>Tool-sharing app (IOS + Android) created as part of the Queen's Engineering Society Software Development Team (ESSDEV). The app enables users to create profiles, connect with others in their community, and borrow tools, fostering a shared resource pool.</p>
             <p>Skills: Flutter, Firebase, Android Studio</p>
           </div>
         </div>
@@ -45,7 +45,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>AI speech therapy startup I'm working on as part of inQUbate. Website coming soon...</p>
+            <p>AI speech-thearpy startup I am co-founding. In the process of developing a web app that helps users improve speech impediments through engaging, gamified exercises. The app leverages AI to accurately assess whether words are pronounced correctly, providing real-time feedback for users. Website coming soon...</p>
             <p>Skills: n/a</p>
           </div>
         </div>
@@ -59,7 +59,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Device that detects and deters pests using motion sensors</p>
+            <p>Pest detection device built as part of the ECE Design and Practice course. This ground-based device uses sound waves to detect nearby motion, triggering flashing lights and a loud noise to scare away pests. It’s a practical solution for protecting crops and gardens from unwanted intruders.</p>
             <p>Skills: Arduino, C++, HTML, CSS</p>
           </div>
         </div>
@@ -73,7 +73,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Desktop app that distinguishes between walking and jumping</p>
+            <p>Desktop app for distinguishing between walking and jumping, using data collected via the Phyphox app. Created as part of a Data Science course, the app processes sensor data to accurately identify and categorize these movements, showcasing the application of data analysis in real-time motion detection.</p>
             <p>Skills: Python, Pandas, NumPy, Tkinter, Phyphox</p>
           </div>
         </div>
@@ -87,7 +87,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Guess the birthday</p>
+            <p>Guessing game app using Java and Android Studio as part of the Object-Oriented Programming course. The app challenges users to guess the birth date of a celebrity or the founding date of a country based on an image. It features a ticket reward system that rewards players for correct answers, enhancing engagement and learning.</p>
             <p>Skills: Java, Android Studio</p>
           </div>
         </div>
@@ -101,7 +101,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="project-description">
-            <p>Clone of Excel to be run in the terminal</p>
+            <p>Excel clone entirely in C, replicating the core functionality of a basic spreadsheet app. Users can input data and perform various operations on it, simulating real-world spreadsheet tasks. This project was completed as part of the Data Structures and Algorithms course.</p>
             <p>Skills: C</p>
           </div>
         </div>

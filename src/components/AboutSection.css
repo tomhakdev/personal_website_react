@@ -125,3 +125,59 @@
     font-weight: bold;
     color: #000;
 }
+
+@media only screen and (max-width: 680px) {
+    .about-me h1 {
+        font-size: 50px;
+        padding: 50px;
+        margin-bottom: 60px;
+        color: white;
+        box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5);
+    }
+        .content {
+            flex-direction: column; /* Stack profile pic and details vertically */
+            align-items: center; /* Center items horizontally */
+            gap: 50px; /* Reduce gap */
+            width: 70%; /* Full width */
+        }
+    
+        .profile-pic img {
+            width: 200px; /* Smaller image */
+            height: 200px; /* Maintain aspect ratio */
+        }
+    
+        .details {
+            max-width: 100%; /* Full width */
+            margin: 0; /* Remove margin */
+            flex-direction: column;
+        }
+    
+        .experience, .education {
+            max-width: 100%; /* Full width *//* Adjust padding */
+            flex-direction: column;
+        }
+    
+        .experience h2, .education h2 {
+            font-size: 20px; /* Smaller font size */
+            padding-left: 20px; /* Reduce padding */
+            padding-right: 20px; /* Reduce padding */
+        }
+    
+        .experience p, .education p {
+            font-size: 16px; /* Smaller font size */
+        }
+    
+        .education .university-logo {
+            width: 80px; /* Smaller logo */
+        }
+    
+        .bio {
+            width: 80%; /* Full width */
+            font-size: 16px; /* Adjust font size */
+            padding-left: 20px;
+            
+        }
+    }
+
+
+

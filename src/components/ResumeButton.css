@@ -44,7 +44,7 @@
 @media only screen and (max-width: 680px) {
     .resume-download {
         margin-top: 10px;
-        margin-bottom: 200px;
+        margin-bottom: 0px;
         left: -10px;
     }
 
@@ -52,7 +52,7 @@
     .resume-button{ /*Taken from https://codepen.io/t_afif/pen/VwxbdpV*/
         --b: 3px;   /* border thickness */
         --s: .15em; /* size of the corner */
-        --c: #BD5532;
+        --c: white;
         
         padding: calc(.5em + var(--s)) calc(.7em + var(--s));
         color: var(--c);
