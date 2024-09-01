@@ -35,8 +35,6 @@ function App() {
 
       <Contact/>
 
-
-      {/* Other components will be added here */}
     </div>
   );
 }
