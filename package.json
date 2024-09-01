@@ -1,5 +1,5 @@
 {
-  "homepage": "https//tomhakdev.github.io/personal_website_react",
+  "homepage": "https://tomhakdev.github.io/personal_website_react",
   "name": "personal_website_react",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@tsparticles/all": "^3.5.0",
     "@tsparticles/react": "^3.0.0",
-    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -41,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
