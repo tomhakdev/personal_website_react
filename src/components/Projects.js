@@ -13,7 +13,7 @@ const Projects = () => {
           <h3 className="project-title">Web Map Interface</h3>
           <div className="thumbnail">
             <a href="https://magenta-cendol-cd03f3.netlify.app/" target="_blank" rel="noopener noreferrer">
-              <img src="Images/CSDD_Website.png" alt="CSDD Website" />
+              <img src="/images/CSDD_Website.png" alt="CSDD Website" />
             </a>
           </div>
           <div className="project-description">
@@ -27,7 +27,7 @@ const Projects = () => {
           <h3 className="project-title">ToolPool</h3>
           <div className="thumbnail">
             <a href="https://github.com/SoslyLW/essdev-app-team" target="_blank" rel="noopener noreferrer">
-              <img src="Images/ToolPool.png" alt="ToolPool Project" />
+              <img src="/images/ToolPool.png" alt="ToolPool Project" />
             </a>
           </div>
           <div className="project-description">
@@ -41,7 +41,7 @@ const Projects = () => {
           <h3 className="project-title">STAM.ai</h3>
           <div className="thumbnail">
             <a href="https://github.com/SimonNRisk/speech-app" target="_blank" rel="noopener noreferrer">
-              <img src="Images/STAM_Logo.png" alt="ToolPool Project" />
+              <img src="/images/STAM_Logo.png" alt="ToolPool Project" />
             </a>
           </div>
           <div className="project-description">
@@ -55,7 +55,7 @@ const Projects = () => {
           <h3 className="project-title">Pest Security System</h3>
           <div className="thumbnail">
             <a href="https://github.com/tomhakdev/Pest-Control-System" target="_blank" rel="noopener noreferrer">
-              <img src="Images/Home Security System.jpg" alt="Pest Security System" />
+              <img src="/images/Home Security System.jpg" alt="Pest Security System" />
             </a>
           </div>
           <div className="project-description">
@@ -69,7 +69,7 @@ const Projects = () => {
           <h3 className="project-title">Movement Detection</h3>
           <div className="thumbnail">
             <a href="https://github.com/tomhakdev/Movement-Detection-Desktop-App" target="_blank" rel="noopener noreferrer">
-              <img src="Images/MovementDetection.png" alt="Pest Security System" />
+              <img src="/images/MovementDetection.png" alt="Pest Security System" />
             </a>
           </div>
           <div className="project-description">
@@ -83,7 +83,7 @@ const Projects = () => {
           <h3 className="project-title">Guess Master</h3>
           <div className="thumbnail">
             <a href="https://github.com/tomhakdev/GuessMasterV3" target="_blank" rel="noopener noreferrer">
-              <img src="Images/GuessMaster.png" alt="GuessMaster app" />
+              <img src="/images/GuessMaster.png" alt="GuessMaster app" />
             </a>
           </div>
           <div className="project-description">
@@ -97,7 +97,7 @@ const Projects = () => {
           <h3 className="project-title">Spreadsheet Application</h3>
           <div className="thumbnail">
             <a href="https://github.com/tomhakdev/CLISpreadsheet" target="_blank" rel="noopener noreferrer">
-              <img src="Images/Spreadsheet.png" alt="Spreadsheet" />
+              <img src="/images/Spreadsheet.png" alt="Spreadsheet" />
             </a>
           </div>
           <div className="project-description">
@@ -110,7 +110,7 @@ const Projects = () => {
           <h3 className="project-title">Personal Website</h3>
           <div className="thumbnail">
             <a href="https://github.com/tomhakdev/Personal-Website" target="_blank" rel="noopener noreferrer">
-              <img src="Images/web-homepage.png" alt="Website Home" />
+              <img src="/images/web-homepage.png" alt="Website Home" />
             </a>
           </div>
           <div className="project-description">
