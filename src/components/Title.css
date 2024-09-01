@@ -1,0 +1,54 @@
+.title{
+    text-align: center;
+    color: white;
+    font-size: 90px;
+    letter-spacing: 17px;
+
+    cursor: pointer;
+
+
+    margin: 0;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+
+    top: 280px;
+    z-index: 2;
+
+    white-space: nowrap;
+    
+}
+
+.title letter{
+    text-align: center;
+}
+
+.title letter:active{
+    transition: 0.3s ease-in;
+    background: none;
+    color: #FFD700;
+    text-shadow: 0 0 40px #FFD700, 0 0 500px #FFD700;
+}
+
+
+@media only screen and (max-width: 680px) {
+    .title{
+        text-align: center;
+        color: white;
+        font-size: 45px;
+        letter-spacing: -10px;
+    
+        cursor: pointer;
+    
+        /*Center Horizontally*/
+        margin: 0;
+        position: absolute;
+        left: 50%; 
+        transform: translateX(-50%);
+    
+        top: 200px;
+        z-index: 2;
+
+        white-space: nowrap;
+        
+    }}

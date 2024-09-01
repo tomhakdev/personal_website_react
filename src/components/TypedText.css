@@ -1,0 +1,79 @@
+#Typed-Text{
+    font-family: "Roboto Mono", monospace;
+    font-size: 18px;
+    color: white;
+
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    z-index: 2;
+
+}
+
+#Typed-Text::after{
+    content: "";
+    background-color: white;
+
+    width: 1px;
+    height: 20px;
+
+    position: absolute;
+    right: -8px;
+    top: 3px;
+    animation: blink 1s infinite;
+
+}
+
+@keyframes blink{
+    0%,
+    100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    #Typed-Text{
+        font-family: "Roboto Mono", monospace;
+        font-size: 10px;
+        color: white;
+
+        position: absolute;
+        top: 120px;
+        left: 50%;
+        transform: translateX(-50%);
+        white-space: nowrap;
+    
+    }
+
+    #Typed-Text::after{
+        content: "";
+        background-color: white;
+    
+        /*Dimensions of typing cursor*/
+        width: 1px;
+        height: 10px;
+    
+        /*Position of typing cursor*/
+        position: absolute;
+        right: -8px;
+        top: 2px;
+        animation: blink 1s infinite;
+    
+    }
+    
+    @keyframes blink{
+        0%,
+        100% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0;
+        }
+    }
+        
+    }
