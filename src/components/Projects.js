@@ -126,7 +126,7 @@ const Projects = () => {
             <h3 className="project-title">Personal Website</h3>
             <p className="project-description">The code behind the creation of this website</p>
             <p className="project-skills">Skills: React.js, HTML, CSS</p>
-            <a href="https://github.com/tomhakdev/personal-website-react" className="learn-more-btn">Learn More</a>
+            <a href="https://github.com/tomhakdev/personal_website_react" className="learn-more-btn">Learn More</a>
           </div>
         </div>
 
